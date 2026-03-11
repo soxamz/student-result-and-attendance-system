@@ -1,0 +1,25 @@
+# Java bytecode and packaged artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
+build/
+out/
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.idea/
+*.iml
+.vscode/
+
+# Environment and local config
+.env
